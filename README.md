@@ -5,7 +5,7 @@ Credits to https://github.com/SecureAuthCorp/impacket and https://github.com/byt
 
 *DO NOT INCLUDE DOMAIN CONTROLLERS*
 
-Uses formatted output from secretsdump and does analysis on the hashes 
+Uses formatted output from secretsdump.py and does analysis on the hashes 
 
 `for i in "`cat file`";do python secretsdump.py domain/username:password@$i|sed -e 's/^/'$i'\t/';done > hashdump`
 
