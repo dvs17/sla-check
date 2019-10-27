@@ -1,9 +1,9 @@
 # sla-check
 Shared Local Admin Checker
 
-*DO NOT INCLUDE DOMAIN CONTROLLERS*
-
 Credits to https://github.com/SecureAuthCorp/impacket and https://github.com/byt3bl33d3r/CrackMapExec
+
+*DO NOT INCLUDE DOMAIN CONTROLLERS*
 
 Uses formatted output from secretsdump and does analysis on the hashes 
 
