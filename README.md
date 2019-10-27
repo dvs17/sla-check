@@ -2,7 +2,9 @@
 Credits to https://github.com/SecureAuthCorp/impacket and https://github.com/byt3bl33d3r/CrackMapExec
 
 Be sure to have the latest versions installed:
+
 https://github.com/SecureAuthCorp/impacket/tree/master/examples/secretsdump.py
+
 https://github.com/byt3bl33d3r/CrackMapExec/wiki/Installation
 
 Shared Local Administrator Checker:
