@@ -1,7 +1,10 @@
-# sla-check
-Shared Local Admin Checker
 
 Credits to https://github.com/SecureAuthCorp/impacket and https://github.com/byt3bl33d3r/CrackMapExec
+Be sure to have the latest versions installed:
+https://github.com/SecureAuthCorp/impacket/tree/master/examples/secretsdump.py
+https://github.com/byt3bl33d3r/CrackMapExec/wiki/Installation
+
+Shared Local Administrator Checker:
 
 *DO NOT INCLUDE DOMAIN CONTROLLERS*
 
@@ -15,3 +18,4 @@ python sharedlocaladmin.py [hashdump file]
 Removes disabled accounts by default
 
 More info can be found here: 
+https://medium.com/@dvs17/shared-local-account-bad-practices-24a63a3bed0a
